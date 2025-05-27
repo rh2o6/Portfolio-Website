@@ -80,7 +80,7 @@ export default function Home() {
                   alt="Hero"
                   className="aspect-square overflow-hidden rounded-xl object-cover object-center"
                   height="450"
-                  src="/sitepic.png?height=450&width=450"
+                  src="/sitepic.PNG?height=450&width=450"
                   width="450"
                 />
               </div>
